@@ -1,2 +1,2 @@
-# Andela-Car-Mart
-Online Car Market
+# Andela
+Andela Related Projects
